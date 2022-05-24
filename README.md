@@ -14,18 +14,21 @@ Target data points:
 
 The source domain is: https://www.premierleague.com/
 
-How to install?
+**How to install?**
 - BeautifulSoup: pip install beautifulsoup4
 - Selenium: pip install selenium
 - Scrapy: pip install Scrapy
 
-How to run the scrapers
+**How to run the scrapers**
 
-BeautifulSoup
+*BeautifulSoup*
+
 python PL_soup.py
 
-Selenium
+*Selenium*
+
 python PL_selenium.py
 
-Scrapy
+*Scrapy*
+
 scrapy crawl PL_Matches -o PL_Matches.csv
