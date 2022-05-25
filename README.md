@@ -23,11 +23,11 @@ The source domain is: https://www.premierleague.com/
 
 *BeautifulSoup*
 
-python PL_soup.py
+python soup/PL_soup.py
 
 *Selenium*
 
-python PL_selenium.py
+python selenium/PL_selenium.py
 
 *Scrapy*
 
