@@ -1,8 +1,8 @@
 # uw-ds-ws-project
-Final Project for Web Scraping and Social Media Scraping Course (2022)
+# Final Project for Web Scraping and Social Media Scraping (2022)
+*Built by: Yelyzaveta Nemchynova (444467)*
 
-Project Objective
-Web Scraping of Premier League fixture results. 
+**Project Objective:** Web Scraping of Premier League fixture results. 
 
 Target data points:
 - Home team
